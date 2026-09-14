@@ -36,14 +36,12 @@ WebDev-L1-LandingPage/
 ├── style.css
 ├── script.js
 ├── README.md
-│
-└── screenshots/
-    ├── home.png
-    ├── features.png
-    ├── dashboard.png
-    ├── profile.png
-    ├── progress.png
-    └── cta.png
+├── Dashboard.png
+├── Features.png
+├── Home.png
+├── Profile.png
+├── Progress.png
+└── cta.png
 ```
 
 ## How to Run
